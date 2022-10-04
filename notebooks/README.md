@@ -10,6 +10,10 @@ which are an invitation for you to try some commands on your own.
 For example, you can copy-paste some of the neighbouring commands
 and try modifying them to see what outputs you get.
 
+## AbTesting 01: Getting Data
+- Colab link:
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomer-ben-david/abtesting/blob/main/notebooks/abtesting_01_getting_data.ipynb)
+
 
 ## Chapter 1: Data
 
